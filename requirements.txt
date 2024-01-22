@@ -1,0 +1,9 @@
+spacy 
+nltk
+regex
+pandas
+numpy
+matplotlib
+scikit-learn
+wordcloud
+gensim
